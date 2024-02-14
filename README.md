@@ -61,7 +61,7 @@ La imagen muestra la página de inicio de la aplicación. En ella se pueden obse
 
 ### Instrucciones de Uso
 
-2.  Abre el link en tu navegador web.
+2.  Abre el link: https://mackaroost.github.io/libreriajs/ en tu navegador web.
 4.  Ingresa los detalles del libro en los campos del formulario.
 6.  Haz clic en "Agregar Libro" para añadir el libro a la librería.
 8.  Los libros se mostrarán en tarjetas con información detallada.
