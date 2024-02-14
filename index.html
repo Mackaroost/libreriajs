@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+   <link rel="stylesheet" href="style.css">
+
+    <title>Libreria</title>
+</head>
+<body>
+    <div class="container-lg">
+    <div class="container mt-5">
+        <nav class="navbar navbar-expand-lg">
+          <div class="container-fluid justify-content-center align-items-center" >
+            <a class="navbar-brand text-black-100 fs-1" href="#">Mi Libreria</a>
+          </div>
+        </nav>
+        <p class="text-dark"> El siguiente es un ejercicio presentado por la plataforma de aprendizaje "The Odin Pojects" el cual tiene como desafio ingresar un libro con su autor y demas  datos. Estos una vez cargados se deben visualizar en el  Html</p>
+      </div>
+
+      <div class="d-flex justify-content-center align-items-center mt-5">
+      <form id="formulario" class="col-md-9">
+
+      <div class="row d-flex justify-content-center align-items-center">
+        
+        <div class="col-md-3">
+          <input  id ="autor" type="text" class=" autor form-control" placeholder="Autor" aria-label="Autor">
+        </div>
+
+        <div class="col-md-4">
+          <input id ="titulo"  type="text" class=" titulo form-control" placeholder="Titulo" aria-label="Titulo">
+        </div>
+        
+        <div class="col-md-3">
+            <input id= "genero" type="text" class="genero form-control" placeholder="Genero" aria-label="Genero">
+          </div>
+
+            <div class="col-md-2">
+          <div class="form-check">
+            <input class="read form-check-input" type="checkbox" value="" >
+            <label class="form-check-label" for="defaultCheck1">Leido</label>
+          </div>
+        </div>
+          </div>
+          <div class="d-block text-center mt-3">
+          <button type="submit" class="btn btn-primary"> Agregar Libro </button>
+        </div>
+      </div>
+     
+    </form>
+    <div class="container-fluid mt-3">
+      <div class="row row-cols-1 row-cols-md-3 g-4" id="containerBooks"></div>
+    </div>
+
+    </div>
+    <script src="./app.js"></script>
+</body>
+</html>
