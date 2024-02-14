@@ -34,10 +34,8 @@ La manipulación del DOM se realiza principalmente en la función `pintarBookHtm
 ## Demostración de Interfaz Gráfica
 
 **Página de Inicio:**
-
+La imagen muestra la página de inicio de la aplicación.
 Página de Inicio: ![paginadeInicio](https://github.com/Mackaroost/libreriajs/assets/101475126/743f92e7-cee9-4878-8f9e-fe6669ae9f12)
-
-La imagen muestra la página de inicio de la aplicación. En ella se pueden observar los siguientes elementos:.
 
 **Otras Funcionalidades:**
 
