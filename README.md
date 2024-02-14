@@ -35,7 +35,7 @@ La manipulación del DOM se realiza principalmente en la función `pintarBookHtm
 
 **Página de Inicio:**
 
-Página de Inicio: ./screenshot/paginadeInicio.png
+Página de Inicio: (./screenshot/paginadeInicio.png)
 
 La imagen muestra la página de inicio de la aplicación. En ella se pueden observar los siguientes elementos:
 
