@@ -37,20 +37,12 @@ La manipulación del DOM se realiza principalmente en la función `pintarBookHtm
 
 Página de Inicio: ![paginadeInicio](https://github.com/Mackaroost/libreriajs/assets/101475126/743f92e7-cee9-4878-8f9e-fe6669ae9f12)
 
-La imagen muestra la página de inicio de la aplicación. En ella se pueden observar los siguientes elementos:
-
--   **Encabezado:** Contiene el logotipo de la aplicación y el nombre de la misma.
--   **Barra de navegación:** Permite acceder a las diferentes secciones de la aplicación.
--   **Sección principal:** Muestra el contenido principal de la página, que en este caso es un carrusel de imágenes con diferentes libros.
--   **Pie de página:** Contiene información de contacto y derechos de autor.
+La imagen muestra la página de inicio de la aplicación. En ella se pueden observar los siguientes elementos:.
 
 **Otras Funcionalidades:**
 
 -   **Página de detalles del libro:** Muestra información detallada sobre un libro específico, como autor, título, género, sinopsis, etc.
 -   **Formulario de búsqueda:** Permite buscar libros por autor, título o género.
--   **Página de perfil de usuario:** Muestra información del usuario, como nombre, correo electrónico, libros favoritos, etc.
--   **Carrito de compras:** Permite agregar libros al carrito para posteriormente comprarlos.
--   **Página de pago:** Permite realizar el pago de los libros comprados.
 
 **Tecnologías Utilizadas:**
 
@@ -61,12 +53,12 @@ La imagen muestra la página de inicio de la aplicación. En ella se pueden obse
 
 ### Instrucciones de Uso
 
-2.  Abre el link: https://mackaroost.github.io/libreriajs/ en tu navegador web.
-4.  Ingresa los detalles del libro en los campos del formulario.
-6.  Haz clic en "Agregar Libro" para añadir el libro a la librería.
-8.  Los libros se mostrarán en tarjetas con información detallada.
-10.  Puedes marcar libros como leídos o no leídos mediante la casilla de verificación.
-12.  Para eliminar un libro, haz clic en el botón "Eliminar" en la tarjeta correspondiente.
+1.  Abre el link: https://mackaroost.github.io/libreriajs/ en tu navegador web.
+2.  Ingresa los detalles del libro en los campos del formulario.
+3.  Haz clic en "Agregar Libro" para añadir el libro a la librería.
+4.  Los libros se mostrarán en tarjetas con información detallada.
+5.  Puedes marcar libros como leídos o no leídos mediante la casilla de verificación.
+6.  Para eliminar un libro, haz clic en el botón "Eliminar" en la tarjeta correspondiente.
 
 ### ¡Disfruta gestionando tu librería personal!
 
